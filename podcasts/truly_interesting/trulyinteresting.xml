@@ -8,6 +8,11 @@
 		<language>en</language>
 		<copyright>Noah Roger 2019</copyright>
 		<itunes:author>Noah Roger</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Noah Roger</itunes:name>
+			<itunes:email>noah@noger.co.uk</itunes:email>
+		</itunes:owner>
 		<itunes:category text="Education" />
 		<itunes:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png" />
 		<item>
