@@ -15,12 +15,12 @@
 			<itunes:email>noah@noger.co.uk</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Education" />
-		<itunes:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo_big.png" />
-		<googleplay:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo_big2.png" />
+		<itunes:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo_big3.png" />
+		<googleplay:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo_big3.png" />
 		<image>
-			<link>href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png"</link>
+			<link>href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo_big3.png"</link>
 			<title>Cover Art</title>
-			<url>https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png</url>
+			<url>https://cdn.noger.co.uk/podcasts/truly_interesting/logo_big3.png</url>
 		</image>
 		<item>
 			<guid>https://cdn.noger.co.uk/podcasts/truly_interesting/0.mp3</guid>
