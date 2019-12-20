@@ -1,4 +1,4 @@
-<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xml:lang="en" version="2.0">
 	<channel>
 		<title>Truly Interesting</title>
 		<link>https://www.noger.co.uk/media/truly_interesting</link>
@@ -8,6 +8,7 @@
 		<language>en</language>
 		<copyright>Noah Roger 2019</copyright>
 		<itunes:author>Noah Roger</itunes:author>
+		<googleplay:author>Noah Roger</googleplay:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:owner>
 			<itunes:name>Noah Roger</itunes:name>
@@ -15,13 +16,19 @@
 		</itunes:owner>
 		<itunes:category text="Education" />
 		<itunes:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png" />
+		<googleplay:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png" />
+		<image>
+			<link>href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png"</link>
+			<title>Cover Art</title>
+			<url>https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png</url>
+		</image>
 		<item>
 			<guid>https://cdn.noger.co.uk/podcasts/truly_interesting/0.mp3</guid>
 			<title>Help Me Out</title>
 			<description>
 				You can suggest topics to me by emailing trulyinteresting@noger.co.uk
 			</description>
-			<pubDate>Fri, 20 Dec 2019 22:30:00 +0000</pubDate>
+			<pubDate>Fri, 20 Dec 2019 22:30:00 GMT</pubDate>
 			<itunes:order>0</itunes:order>
 			<itunes:duration>15</itunes:duration>
 			<link>https://cdn.noger.co.uk/podcasts/truly_interesting/0.mp3</link>
