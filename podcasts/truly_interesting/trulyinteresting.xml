@@ -3,7 +3,7 @@
 		<title>Truly Interesting</title>
 		<link>https://www.noger.co.uk/media/truly_interesting</link>
 		<description>
-			Truly Interesting is a podcasts started by Noah Roger in 2020. Released every Friday starting Friday 3rd January 2020, it will give a humourus and detailed analysis into intriguing topics which may relate to Current News Events or it may be just something I thought of which turns out to be interesting.
+			Truly Interesting is a podcast started by Noah Roger in 2020. Released every Friday starting Friday 3rd January 2020, it will give a humourus and detailed analysis into intriguing topics which may relate to Current News Events or it may be just something I thought of which turns out to be interesting.
 		</description>
 		<language>en</language>
 		<copyright>Noah Roger 2019</copyright>
@@ -15,8 +15,8 @@
 			<itunes:email>noah@noger.co.uk</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Education" />
-		<itunes:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png" />
-		<googleplay:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png" />
+		<itunes:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo_big.png" />
+		<googleplay:image href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo_big.png" />
 		<image>
 			<link>href="https://cdn.noger.co.uk/podcasts/truly_interesting/logo.png"</link>
 			<title>Cover Art</title>
